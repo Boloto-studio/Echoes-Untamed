@@ -1,0 +1,8 @@
+{
+    "sleep" : {
+        "sounds" : [
+            "poles:sleep1",
+            "poles:sleep2"
+        ]
+    }
+}

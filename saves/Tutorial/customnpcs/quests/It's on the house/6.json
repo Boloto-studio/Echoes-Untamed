@@ -1,0 +1,57 @@
+{
+    "Type": 0,
+    "QuestCompletion": 1,
+    "QuestCommand": "",
+    "QuestFactionPoints": {
+        "DecreaseFaction2Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFaction1Points": 100,
+        "OptionFactions2": -1,
+        "OptionFactions1": -1,
+        "DecreaseFaction1Points": 0b
+    },
+    "LeaveItems": 1b,
+    "IgnoreNBT": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleterNpc": "Yarik",
+    "NextQuestId": -1,
+    "CompleteText": "",
+    "Text": "Yarik thinks you should get his \"diplomacy tool\" just in case. Check his room on the upper floor of the tavern.",
+    "QuestMail": {
+        "Subject": "",
+        "MailQuest": -1,
+        "BeenRead": 0b,
+        "MailItems": [
+        ],
+        "Sender": "",
+        "Message": {
+        },
+        "Time": 0L,
+        "TimePast": 1735547389117L
+    },
+    "RandomReward": 0b,
+    "Title": "Grab a weapon (optional)",
+    "IgnoreDamage": 0b,
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "magistuarmory:iron_morgenstern",
+                "tag": {
+                    "Damage": 0,
+                    "display": {
+                        "Name": "{\"text\":\"Yarik's Morningstar\"}"
+                    },
+                    "RepairCost": 0
+                },
+                "Count": 1b
+            }
+        ]
+    },
+    "QuestRepeat": 0,
+    "RewardExp": 0,
+    "ModRev": 18
+}

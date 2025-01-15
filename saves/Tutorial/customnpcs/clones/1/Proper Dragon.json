@@ -1,0 +1,185 @@
+{
+    "CanUpdate": 1b,
+    "Hunger": 91,
+    "CrystalBound": 0b,
+    "LeftHanded": 0b,
+    "Hovering": 0b,
+    "AbsorptionAmount": 0.0f,
+    "HasHomePosition": 0b,
+    "Gender": 1b,
+    "Invulnerable": 0b,
+    "TamedDragon": 0b,
+    "ForgeCaps": {
+        "curios:inventory": {
+            "Curios": [
+            ]
+        },
+        "cataclysm:render_rush_cap": {
+            "isRush": 0b,
+            "damage": 0.0f,
+            "timer": 0
+        },
+        "cataclysm:tentacle_cap": {
+            "getLastTentacleID": 0,
+            "hasTentacle": 0b
+        },
+        "cataclysm:charge_cap": {
+            "isCharge": 0b,
+            "dz": 0.0f,
+            "dx": 0.0f,
+            "KnockbackSpeed": 0.0f,
+            "ChargeTime": 0,
+            "timer": 0,
+            "ChargeDamage": 0.0f
+        },
+        "cataclysm:hook_cap": {
+            "hasHook": 0b
+        },
+        "iceandfire:entity_data": {
+            "chainedData": {
+            },
+            "miscData": {
+                "lungeTicks": 0,
+                "loveTicks": 0,
+                "hasDismounted": 0b
+            },
+            "chickenData": {
+                "timeUntilNextEgg": -1
+            },
+            "sirenData": {
+                "charmedById": -1,
+                "charmTime": 0,
+                "isCharmed": 0b
+            },
+            "frozenData": {
+                "isFrozen": 0b,
+                "frozenTicks": 0
+            }
+        }
+    },
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "ForcedAge": 0,
+    "BalmData": {
+    },
+    "AgingDisabled": 0b,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "ModelDead": 0b,
+    "ForgeData": {
+    },
+    "Flying": 0b,
+    "DeadProg": 0.0f,
+    "Variant": 0,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CanPickUpLoot": 0b,
+    "Command": 0,
+    "ModRev": 1,
+    "Fire": -1s,
+    "PersistenceRequired": 0b,
+    "DeathTime": 0s,
+    "Tackle": 0b,
+    "OnGround": 1b,
+    "Attributes": [
+        {
+            "Name": "forge:entity_gravity",
+            "Base": 0.08d
+        },
+        {
+            "Name": "irons_spellbooks:fire_magic_resist",
+            "Base": 1.5d
+        },
+        {
+            "Name": "minecraft:generic.movement_speed",
+            "Base": 0.2980000059604645d
+        },
+        {
+            "Name": "minecraft:generic.attack_damage",
+            "Base": 11.0d
+        },
+        {
+            "Name": "minecraft:generic.armor",
+            "Modifiers": [
+                {
+                    "Amount": 1.0d,
+                    "UUID": [I;1433278053,-1961869112,-1885483109,375911061],
+                    "Name": "Dragon armor bonus",
+                    "Operation": 0
+                }
+            ],
+            "Base": 12.248d
+        },
+        {
+            "Name": "minecraft:generic.follow_range",
+            "Modifiers": [
+                {
+                    "Amount": -0.0638647716105555d,
+                    "UUID": [I;-300629741,313542056,-1539962155,-2032571351],
+                    "Name": "Random spawn bonus",
+                    "Operation": 1
+                }
+            ],
+            "Base": 128.0d
+        },
+        {
+            "Name": "minecraft:generic.max_health",
+            "Base": 304.0d
+        }
+    ],
+    "CustomPose": "",
+    "Brain": {
+        "memories": {
+        }
+    },
+    "Items": [
+    ],
+    "Age": 0,
+    "Sitting": 0b,
+    "HurtByTimestamp": 0,
+    "Rotation": [
+        108.03406f,
+        0.0f
+    ],
+    "DeathStage": 0,
+    "Sleeping": 0b,
+    "CitadelData": {
+    },
+    "Air": 300s,
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "AgeTicks": 1776344,
+    "FallDistance": 0.0f,
+    "id": "iceandfire:fire_dragon",
+    "FallFlying": 0b,
+    "FireBreathing": 0b,
+    "AttackDecision": 1b,
+    "HurtTime": 0s,
+    "Health": 304.0f,
+    "InLove": 0,
+    "PortalCooldown": 0,
+    "forge:spawn_type": "SPAWN_EGG"
+}

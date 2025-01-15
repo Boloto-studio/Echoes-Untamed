@@ -1,0 +1,326 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = jumpscare1
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1735434217830
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:751e4049-b16f-433b-b699-499f3d8159f6-1735434209114] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]/config/fancymenu/assets/222222.png
+  slide = false
+  repeat_texture = true
+  background_type = image
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  is_async = false
+  tick_delay = 50
+  tick_mode = normal
+  ticker_element_executable_block_identifier = 30cde278-d8ef-417e-8af0-03080bbd2670-1735427181668
+  [executable_action_instance:5a043154-afeb-4b8c-b42c-e66c7579061f-1735427211971][action_type:set_variable] = screen_progress_tick:{"placeholder":"calc","values":{"expression":"{"placeholder":"getvariable","values":{"name":"screen_progress_tick"}} + 1","decimal":"false"}}
+  [executable_block:30cde278-d8ef-417e-8af0-03080bbd2670-1735427181668][type:generic] = [executables:5a043154-afeb-4b8c-b42c-e66c7579061f-1735427211971;]
+  element_type = fancymenu_customization_item_ticker
+  instance_identifier = 78ce9ca1-0a3c-49a1-a8a4-f163f0277729-1735427181668
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1008
+  sticky_anchor = false
+  anchor_point = bottom-right
+  x = -72
+  y = -72
+  width = 70
+  height = 70
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 42acb5cb-b78c-4709-be3d-fa7cd84ec641-1735427181668
+  [loading_requirement_container_meta:42acb5cb-b78c-4709-be3d-fa7cd84ec641-1735427181668] = [groups:][instances:]
+}
+
+element {
+  is_async = false
+  tick_delay = 0
+  tick_mode = on_menu_load
+  ticker_element_executable_block_identifier = 8e0a5108-478f-4ff9-994c-75ca11029c4f-1735427526849
+  [executable_action_instance:f30c8202-fd9f-48fc-8fc0-4301da5e5734-1735427582248][action_type:set_variable] = screen_progress_tick:1
+  [executable_block:50541bd0-dfd8-455a-a6e9-c2e85a9f9533-1735427576798][type:if] = [executables:f30c8202-fd9f-48fc-8fc0-4301da5e5734-1735427582248;]
+  [if_executable_block_body:50541bd0-dfd8-455a-a6e9-c2e85a9f9533-1735427576798] = f560d4dc-3073-4b13-88b7-3a1840ab703b-1735427540782
+  [loading_requirement_container_meta:f560d4dc-3073-4b13-88b7-3a1840ab703b-1735427540782] = [groups:][instances:039c38d5-bf6f-4f44-b7f5-310da7b513a6-1735427542099;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][req_id:039c38d5-bf6f-4f44-b7f5-310da7b513a6-1735427542099] = screen_progress_tick:1
+  [executable_block:8e0a5108-478f-4ff9-994c-75ca11029c4f-1735427526849][type:generic] = [executables:50541bd0-dfd8-455a-a6e9-c2e85a9f9533-1735427576798;]
+  element_type = fancymenu_customization_item_ticker
+  instance_identifier = cfa7e720-8560-45c8-bb84-61029c01b641-1735427526849
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1008
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 171
+  y = 106
+  width = 70
+  height = 70
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 8d2c2621-f593-439a-bb07-a9735de08817-1735427526849
+  [loading_requirement_container_meta:8d2c2621-f593-439a-bb07-a9735de08817-1735427526849] = [groups:][instances:]
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/jumpscares/jumpscare-01.ogg
+  play_mode = normal
+  looping = false
+  volume = 1.0
+  sound_source = hostile
+  element_type = audio_v2
+  instance_identifier = 2e2e79cf-9122-42f9-a299-1eea14669a38-1735427755974
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1008
+  sticky_anchor = false
+  anchor_point = top-right
+  x = -102
+  y = 2
+  width = 100
+  height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 67e49aa4-9bf7-42c7-9fdc-f6e242ee9684-1735427755974
+  [loading_requirement_container_meta:67e49aa4-9bf7-42c7-9fdc-f6e242ee9684-1735427755974] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/jumpscares/4.jpg
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 8ce8d2e1-e077-4423-9931-678f23130ead-1735426942752
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1008
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -168
+  y = -174
+  width = 639
+  height = 316
+  stretch_x = true
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c741a217-4e6f-41d6-ab3c-5574175f2d81-1735426942752
+  [loading_requirement_container_meta:c741a217-4e6f-41d6-ab3c-5574175f2d81-1735426942752] = [groups:][instances:13b0e350-7d95-43c7-92a8-350159ae63b8-1735432549710;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:13b0e350-7d95-43c7-92a8-350159ae63b8-1735432549710] = screen_progress_tick:{"placeholder":"maxnum","values":{"first":"{"placeholder":"minnum","values":{"first":"{"placeholder":"getvariable","values":{"name":"screen_progress_tick"}}","second":"3"}}","second":"0"}}
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/jumpscares/4.jpg
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 94c0c2da-0810-4109-b2a6-940b9c26d04c-1735432053259
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1008
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -155
+  y = -161
+  width = 639
+  height = 316
+  stretch_x = true
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c741a217-4e6f-41d6-ab3c-5574175f2d81-1735426942752
+  [loading_requirement_container_meta:c741a217-4e6f-41d6-ab3c-5574175f2d81-1735426942752] = [groups:][instances:885e6516-53fd-46cc-999e-407ab6c561c7-1735431501871;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:885e6516-53fd-46cc-999e-407ab6c561c7-1735431501871] = screen_progress_tick:{"placeholder":"maxnum","values":{"first":"{"placeholder":"minnum","values":{"first":"{"placeholder":"getvariable","values":{"name":"screen_progress_tick"}}","second":"7"}}","second":"4"}}
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/jumpscares/3.jpg
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 09189075-b7b2-4408-8d93-23441e035869-1735432278726
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1008
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -163
+  y = -156
+  width = 639
+  height = 316
+  stretch_x = true
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c741a217-4e6f-41d6-ab3c-5574175f2d81-1735426942752
+  [loading_requirement_container_meta:c741a217-4e6f-41d6-ab3c-5574175f2d81-1735426942752] = [groups:][instances:885e6516-53fd-46cc-999e-407ab6c561c7-1735431501871;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:885e6516-53fd-46cc-999e-407ab6c561c7-1735431501871] = screen_progress_tick:{"placeholder":"maxnum","values":{"first":"{"placeholder":"minnum","values":{"first":"{"placeholder":"getvariable","values":{"name":"screen_progress_tick"}}","second":"8"}}","second":"11"}}
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/jumpscares/3.jpg
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = d4d3d628-a9fa-4bd1-b4ff-ce879ecaf3a9-1735432286209
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1008
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -154
+  y = -146
+  width = 639
+  height = 316
+  stretch_x = true
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c741a217-4e6f-41d6-ab3c-5574175f2d81-1735426942752
+  [loading_requirement_container_meta:c741a217-4e6f-41d6-ab3c-5574175f2d81-1735426942752] = [groups:][instances:885e6516-53fd-46cc-999e-407ab6c561c7-1735431501871;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:885e6516-53fd-46cc-999e-407ab6c561c7-1735431501871] = screen_progress_tick:{"placeholder":"maxnum","values":{"first":"{"placeholder":"minnum","values":{"first":"{"placeholder":"getvariable","values":{"name":"screen_progress_tick"}}","second":"12"}}","second":"15"}}
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/jumpscares/1.jpg
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = d852ee66-c1fc-4101-b6ea-f64e38072a1e-1735433484024
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1008
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 0
+  y = 0
+  width = 100
+  height = 100
+  stretch_x = true
+  stretch_y = true
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c44a40cf-ab82-4643-a0e6-5bd2bc504ac0-1735433484024
+  [loading_requirement_container_meta:c44a40cf-ab82-4643-a0e6-5bd2bc504ac0-1735433484024] = [groups:][instances:1090e907-a35c-44a0-8f26-147be263c7ee-1735433491524;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:1090e907-a35c-44a0-8f26-147be263c7ee-1735433491524] = screen_progress_tick:{"placeholder":"maxnum","values":{"first":"{"placeholder":"getvariable","values":{"name":"screen_progress_tick"}}","second":"16"}}
+}
+
+element {
+  is_async = false
+  tick_delay = 0
+  tick_mode = on_menu_load
+  ticker_element_executable_block_identifier = 76c2d5c7-5f2e-45d0-a95f-e1afa288de98-1735434159764
+  [executable_action_instance:a7616dee-47f2-44ec-b7ba-bcdf99e71a61-1735434214147][action_type:closegui] = 
+  [executable_block:76c2d5c7-5f2e-45d0-a95f-e1afa288de98-1735434159764][type:generic] = [executables:a7616dee-47f2-44ec-b7ba-bcdf99e71a61-1735434214147;]
+  element_type = fancymenu_customization_item_ticker
+  instance_identifier = 9f318518-bfaf-4213-83ca-d1691bfc071d-1735433775394
+  appearance_delay = every_time
+  appearance_delay_seconds = 1.4
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1008
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -338
+  y = -158
+  width = 70
+  height = 70
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 8ff98b9a-63c9-4edd-aa45-31cc0e651363-1735433775394
+  [loading_requirement_container_meta:8ff98b9a-63c9-4edd-aa45-31cc0e651363-1735433775394] = [groups:][instances:]
+}
+

@@ -1,0 +1,32 @@
+type = user_variables
+
+variable {
+  name = head_pos
+  value = 15.779956861059443
+  reset_on_launch = false
+}
+
+variable {
+  name = screen_progress_tick
+  value = 19
+  reset_on_launch = false
+}
+
+variable {
+  name = left_arm_pos
+  value = -1.816186299544718
+  reset_on_launch = false
+}
+
+variable {
+  name = theta
+  value = 15.79999999999996
+  reset_on_launch = false
+}
+
+variable {
+  name = right_arm_pos
+  value = 1.816186299544718
+  reset_on_launch = false
+}
+

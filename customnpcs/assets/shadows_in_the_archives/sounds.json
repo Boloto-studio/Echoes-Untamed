@@ -1,0 +1,15 @@
+{
+    "titushky" : {
+        "sounds" : [
+            "shadows_in_the_archives:titushky"
+        ]
+    },"by_the_gods" : {
+        "sounds" : [
+            "shadows_in_the_archives:by_the_gods"
+        ]
+    },"french" : {
+        "sounds" : [
+            "shadows_in_the_archives:french"
+        ]
+    }
+}

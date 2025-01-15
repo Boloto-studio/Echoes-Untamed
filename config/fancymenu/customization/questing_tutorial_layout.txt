@@ -1,0 +1,197 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = questing_tutorial
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1736970799846
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:9ad485c6-6bbe-4c51-8c87-9b8afd73aceb-1736970785508] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  interactable = true
+  source = Press the "L" key to open the quests menu
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = d93da378-3df2-4f91-b01a-93c2d667b14f-1735526492502
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = every_time
+  fade_in_speed = 0.5
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-left
+  x = 58
+  y = -87
+  width = 227
+  height = 24
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 763d80c4-619c-4cc4-bbb4-81757d2909b7-1735526492502
+  [loading_requirement_container_meta:763d80c4-619c-4cc4-bbb4-81757d2909b7-1735526492502] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/tutorial_assets/quest_tutor.jpg
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 26009598-16cf-4968-be8d-4112c35988ab-1735526545735
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = every_time
+  fade_in_speed = 0.5
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = d93da378-3df2-4f91-b01a-93c2d667b14f-1735526492502
+  x = 27
+  y = 42
+  width = 177
+  height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c132d586-6543-47be-9224-56e3cdb9da40-1735526545735
+  [loading_requirement_container_meta:c132d586-6543-47be-9224-56e3cdb9da40-1735526545735] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = fa0e80bb-63e8-488b-9a76-ded54f261660-1735526706353
+  [executable_action_instance:32ad719d-0648-454d-850b-acc410e0b008-1735526824823][action_type:closegui] = 
+  [executable_block:fa0e80bb-63e8-488b-9a76-ded54f261660-1735526706353][type:generic] = [executables:32ad719d-0648-454d-850b-acc410e0b008-1735526824823;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Got it
+  navigatable = true
+  widget_active_state_requirement_container_identifier = d09fbc3d-747a-4bea-aa00-f7ef9388e2ee-1735526706353
+  [loading_requirement_container_meta:d09fbc3d-747a-4bea-aa00-f7ef9388e2ee-1735526706353] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = c4991fd0-e699-44f5-8eab-19bf878531b9-1735526706353
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = every_time
+  fade_in_speed = 0.5
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = bottom-centered
+  x = -48
+  y = -46
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c672e16a-df31-4565-8e39-b2883640e369-1735526706353
+  [loading_requirement_container_meta:c672e16a-df31-4565-8e39-b2883640e369-1735526706353] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = ^^^%n%Progress though the story by completing quests.%n%%n%Some quests give you rewards, and some alter your reputation with factions.%n%^^^
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 6650896f-b197-4199-be3a-3f0f23bbfbd8-1735526831971
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = every_time
+  fade_in_speed = 0.5
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = d93da378-3df2-4f91-b01a-93c2d667b14f-1735526492502
+  x = 324
+  y = 53
+  width = 200
+  height = 85
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 99da5bdd-da97-447f-bbaa-917c1d518b6d-1735526831971
+  [loading_requirement_container_meta:99da5bdd-da97-447f-bbaa-917c1d518b6d-1735526831971] = [groups:][instances:]
+}
+

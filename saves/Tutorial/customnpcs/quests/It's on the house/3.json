@@ -1,0 +1,44 @@
+{
+    "Type": 2,
+    "QuestCompletion": 1,
+    "QuestCommand": "",
+    "QuestFactionPoints": {
+        "DecreaseFaction2Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFaction1Points": 100,
+        "OptionFactions2": -1,
+        "OptionFactions1": -1,
+        "DecreaseFaction1Points": 0b
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleterNpc": "Serhiy",
+    "NextQuestId": -1,
+    "CompleteText": "",
+    "Text": "The visitor doesn't seem to want to leave. Make him leave.",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Jahova's witness"
+        }
+    ],
+    "QuestMail": {
+        "Subject": "",
+        "MailQuest": -1,
+        "BeenRead": 0b,
+        "MailItems": [
+        ],
+        "Sender": "",
+        "Message": {
+        },
+        "Time": 0L,
+        "TimePast": 1736141601276L
+    },
+    "RandomReward": 0b,
+    "Title": "Kill the visitor",
+    "QuestRepeat": 0,
+    "RewardExp": 0,
+    "ModRev": 18
+}

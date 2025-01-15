@@ -1,0 +1,44 @@
+{
+    "Type": 1,
+    "QuestCompletion": 1,
+    "QuestCommand": "",
+    "QuestFactionPoints": {
+        "DecreaseFaction2Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFaction1Points": 100,
+        "OptionFactions2": -1,
+        "OptionFactions1": -1,
+        "DecreaseFaction1Points": 0b
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleterNpc": "Yarik",
+    "NextQuestId": -1,
+    "CompleteText": "",
+    "Text": "Yarik wanted to see you. He's waiting for you downstairs, in the tavern's basement.",
+    "QuestDialogs": [
+        {
+            "Integer": 8,
+            "Slot": 0
+        }
+    ],
+    "QuestMail": {
+        "Subject": "",
+        "MailQuest": -1,
+        "BeenRead": 0b,
+        "MailItems": [
+        ],
+        "Sender": "",
+        "Message": {
+        },
+        "Time": 0L,
+        "TimePast": 1735546000025L
+    },
+    "RandomReward": 0b,
+    "Title": "Talk to Yarik",
+    "QuestRepeat": 0,
+    "RewardExp": 0,
+    "ModRev": 18
+}

@@ -1,0 +1,37 @@
+{
+    "wood_knock" : {
+        "sounds" : [
+            "misc:knock_wood_1",
+            "misc:knock_wood_2",
+            "misc:knock_wood_3"
+        ]
+    },"pry_deets" : {
+        "sounds" : [
+            "misc:pry_deets"
+        ]
+    },"pry_hello" : {
+        "sounds" : [
+            "misc:pry_hello"
+        ]
+    },"pry_q" : {
+        "sounds" : [
+            "misc:pry_q"
+        ]
+    },"pry_quest" : {
+        "sounds" : [
+            "misc:pry_quest"
+        ]
+    },"pry_situation" : {
+        "sounds" : [
+            "misc:pry_situation"
+        ]
+    },"pry_done" : {
+        "sounds" : [
+            "misc:pry_done"
+        ]
+    },"tavern_ambiance" : {
+        "sounds" : [
+            "misc:tavern_ambiance"
+        ]
+    }
+}

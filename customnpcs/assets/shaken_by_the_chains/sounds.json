@@ -1,0 +1,79 @@
+{
+    "whos_there" : {
+        "sounds" : [
+            "shaken_by_the_chains:whos_there"
+        ]
+    },"beings" : {
+        "sounds" : [
+            "shaken_by_the_chains:beings"
+        ]
+    },"denys" : {
+        "sounds" : [
+            "shaken_by_the_chains:denys"
+        ]
+    },"found_them" : {
+        "sounds" : [
+            "shaken_by_the_chains:found_them"
+        ]
+    },"help_me" : {
+        "sounds" : [
+            "shaken_by_the_chains:help_me"
+        ]
+    },"hes_coming" : {
+        "sounds" : [
+            "shaken_by_the_chains:hes_coming"
+        ]
+    },"makes_sense" : {
+        "sounds" : [
+            "shaken_by_the_chains:makes_sense"
+        ]
+    },"paper_fern_lighter" : {
+        "sounds" : [
+            "shaken_by_the_chains:paper_fern_lighter"
+        ]
+    },"poem" : {
+        "sounds" : [
+            "shaken_by_the_chains:poem"
+        ]
+    },"wdyw" : {
+        "sounds" : [
+            "shaken_by_the_chains:wdyw"
+        ]
+    },"what_about_him" : {
+        "sounds" : [
+            "shaken_by_the_chains:what_about_him"
+        ]
+    },"careful" : {
+        "sounds" : [
+            "shaken_by_the_chains:careful"
+        ]
+    },"dynia" : {
+        "sounds" : [
+            "shaken_by_the_chains:dynia"
+        ]
+    },"poor_man" : {
+        "sounds" : [
+            "shaken_by_the_chains:poor_man"
+        ]
+    },"stop_it" : {
+        "sounds" : [
+            "shaken_by_the_chains:stop_it"
+        ]
+    },"u_back" : {
+        "sounds" : [
+            "shaken_by_the_chains:u_back"
+        ]
+    },"what" : {
+        "sounds" : [
+            "shaken_by_the_chains:what"
+        ]
+    },"a_minute" : {
+        "sounds" : [
+            "shaken_by_the_chains:a_minute"
+        ]
+    },"aridnyk" : {
+        "sounds" : [
+            "shaken_by_the_chains:aridnyk"
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "andriy1" : {
+        "sounds" : [
+            "intro:andriy-01"
+        ]
+    },"andriy2" : {
+        "sounds" : [
+            "intro:andriy-02"
+        ]
+    },"andriy3" : {
+        "sounds" : [
+            "intro:andriy-03"
+        ]
+    },"andriy4" : {
+        "sounds" : [
+            "intro:andriy-04"
+        ]
+    },"andriy5" : {
+        "sounds" : [
+            "intro:andriy-05"
+        ]
+    },"andriy6" : {
+        "sounds" : [
+            "intro:andriy-06"
+        ]
+    },"andriy7" : {
+        "sounds" : [
+            "intro:andriy-07"
+        ]
+    },"yura1" : {
+        "sounds" : [
+            "intro:kum"
+        ]
+    },"yura2" : {
+        "sounds" : [
+            "intro:almost_ready"
+        ]
+    },"yura3" : {
+        "sounds" : [
+            "intro:yarik_needs_you"
+        ]
+    },"yarik1" : {
+        "sounds" : [
+            "intro:yarik1"
+        ]
+    },"yarik2" : {
+        "sounds" : [
+            "intro:yarik2"
+        ]
+    },"yarik3" : {
+        "sounds" : [
+            "intro:yarik3"
+        ]
+    },"jahova1" : {
+        "sounds" : [
+            "intro:jahova1"
+        ]
+    },"jahova2" : {
+        "sounds" : [
+            "intro:jahova2"
+        ]
+    },"jahova3" : {
+        "sounds" : [
+            "intro:jahova3"
+        ]
+    },"jahova4" : {
+        "sounds" : [
+            "intro:jahova4"
+        ]
+    },"jahova_yap" : {
+        "sounds" : [
+            "intro:jahova_yap"
+        ]
+    },"andriy8" : {
+        "sounds" : [
+            "intro:andriy-08"
+        ]
+    },"serhiy1" : {
+        "sounds" : [
+            "intro:serhiy1"
+        ]
+    },"serhiy2" : {
+        "sounds" : [
+            "intro:serhiy2"
+        ]
+    },"serhiy3" : {
+        "sounds" : [
+            "intro:serhiy3"
+        ]
+    }
+}

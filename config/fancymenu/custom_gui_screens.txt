@@ -1,0 +1,78 @@
+type = custom_gui_screens
+
+overridden_screens {
+  com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu = singleplayer
+}
+
+custom_gui {
+  identifier = introsplash
+  title = 
+  allow_esc = false
+  transparent_world_background = false
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = combat_tutorial
+  title = Combat
+  allow_esc = false
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = questing_tutorial
+  title = Questing
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = main_menu
+  title = 
+  allow_esc = false
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = jumpscare1
+  title = 
+  allow_esc = false
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = singleplayer
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = singleplayer2
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = false
+}
+
+custom_gui {
+  identifier = tutorial_voice_chat
+  title = Tutorial
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+

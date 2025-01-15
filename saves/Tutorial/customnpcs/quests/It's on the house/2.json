@@ -1,0 +1,44 @@
+{
+    "Type": 1,
+    "QuestCompletion": 1,
+    "QuestCommand": "",
+    "QuestFactionPoints": {
+        "DecreaseFaction2Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFaction1Points": 100,
+        "OptionFactions2": -1,
+        "OptionFactions1": -1,
+        "DecreaseFaction1Points": 0b
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleterNpc": "None",
+    "NextQuestId": -1,
+    "CompleteText": "",
+    "Text": "Confront a strange visitor scaring the villagers at the town church.",
+    "QuestDialogs": [
+        {
+            "Integer": 9,
+            "Slot": 0
+        }
+    ],
+    "QuestMail": {
+        "Subject": "",
+        "MailQuest": -1,
+        "BeenRead": 0b,
+        "MailItems": [
+        ],
+        "Sender": "",
+        "Message": {
+        },
+        "Time": 0L,
+        "TimePast": 1736303033090L
+    },
+    "RandomReward": 0b,
+    "Title": "The visitor",
+    "QuestRepeat": 0,
+    "RewardExp": 0,
+    "ModRev": 18
+}

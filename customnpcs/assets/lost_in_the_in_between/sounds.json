@@ -1,0 +1,73 @@
+{
+    "aridnyk_stirs" : {
+        "sounds" : [
+            "lost_in_the_in_between:aridnyk_stirs"
+        ]
+    },"cant_help" : {
+        "sounds" : [
+            "lost_in_the_in_between:cant_help"
+        ]
+    },"dragon" : {
+        "sounds" : [
+            "lost_in_the_in_between:dragon"
+        ]
+    },"help_me_plz" : {
+        "sounds" : [
+            "lost_in_the_in_between:help_me_plz"
+        ]
+    },"idk" : {
+        "sounds" : [
+            "lost_in_the_in_between:idk"
+        ]
+    },"like_the_old_legend" : {
+        "sounds" : [
+            "lost_in_the_in_between:like_the_old_legend"
+        ]
+    },"lovely" : {
+        "sounds" : [
+            "lost_in_the_in_between:lovely"
+        ]
+    },"skitzo" : {
+        "sounds" : [
+            "lost_in_the_in_between:skitzo"
+        ]
+    },"thank_you" : {
+        "sounds" : [
+            "lost_in_the_in_between:thank_you"
+        ]
+    },"the_worlds" : {
+        "sounds" : [
+            "lost_in_the_in_between:the_worlds"
+        ]
+    },"you_are_not_alone" : {
+        "sounds" : [
+            "lost_in_the_in_between:you_are_not_alone"
+        ]
+    },"strange" : {
+        "sounds" : [
+            "lost_in_the_in_between:strange"
+        ]
+    },
+    "the_dragon_it_came_from_the_east" : {
+        "sounds" : [
+            "lost_in_the_in_between:the_dragon_it_came_from_the_east"
+        ]
+    },
+    "the_spitrits" : {
+        "sounds" : [
+            "lost_in_the_in_between:the_spitrits"
+        ]
+    },
+    "seek_the_old_stone" : {
+        "sounds" : [
+            "lost_in_the_in_between:seek_the_old_stone"
+        ]
+    },
+    "help" : {
+        "sounds" : [
+            "lost_in_the_in_between:help1",
+            "lost_in_the_in_between:help2",
+            "lost_in_the_in_between:help3"
+        ]
+    }
+}

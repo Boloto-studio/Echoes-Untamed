@@ -1,0 +1,71 @@
+{
+    "all_ears" : {
+        "sounds" : [
+            "councils_counsel:all_ears"
+        ]
+    },"aridnyk_is" : {
+        "sounds" : [
+            "councils_counsel:aridnyk_is"
+        ]
+    },"good_q" : {
+        "sounds" : [
+            "councils_counsel:good_q"
+        ]
+    },"i_am" : {
+        "sounds" : [
+            "councils_counsel:i_am"
+        ]
+    },"lilia_hetmanate" : {
+        "sounds" : [
+            "councils_counsel:lilia_hetmanate"
+        ]
+    },"lilia_intro" : {
+        "sounds" : [
+            "councils_counsel:lilia_intro"
+        ]
+    },"must_be" : {
+        "sounds" : [
+            "councils_counsel:must_be"
+        ]
+    },"nonsense" : {
+        "sounds" : [
+            "councils_counsel:nonsense"
+        ]
+    },"not_the_first_time" : {
+        "sounds" : [
+            "councils_counsel:not_the_first_time"
+        ]
+    },"oh_heavens" : {
+        "sounds" : [
+            "councils_counsel:oh_heavens"
+        ]
+    },"pardon" : {
+        "sounds" : [
+            "councils_counsel:pardon"
+        ]
+    },"sigh" : {
+        "sounds" : [
+            "councils_counsel:sigh"
+        ]
+    },"skibidi" : {
+        "sounds" : [
+            "councils_counsel:skibidi"
+        ]
+    },"ugly" : {
+        "sounds" : [
+            "councils_counsel:ugly"
+        ]
+    },"youre_one_of_those" : {
+        "sounds" : [
+            "councils_counsel:youre_one_of_those"
+        ]
+    },"consider" : {
+        "sounds" : [
+            "councils_counsel:consider"
+        ]
+    },"eee" : {
+        "sounds" : [
+            "councils_counsel:eee"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "attack" : {
+        "sounds" : [
+            "jahovas:attack1",
+            "jahovas:attack2",
+            "jahovas:attack3",
+            "jahovas:attack4",
+            "jahovas:attack5",
+            "jahovas:attack6",
+            "jahovas:attack7",
+            "jahovas:attack8"
+        ]
+    },"hurt" : {
+        "sounds" : [
+            "jahovas:hurt1",
+            "jahovas:hurt2",
+            "jahovas:hurt3",
+            "jahovas:hurt4",
+            "jahovas:hurt5",
+            "jahovas:hurt6",
+            "jahovas:hurt7",
+            "jahovas:hurt8",
+            "jahovas:hurt9",
+            "jahovas:hurt10"
+        ]
+    },"interact1" : {
+        "sounds" : [
+            "jahovas:interact1"
+        ]
+    },"interact2" : {
+        "sounds" : [
+            "jahovas:interact2"
+        ]
+    },"interact3" : {
+        "sounds" : [
+            "jahovas:interact3"
+        ]
+    },"interact4" : {
+        "sounds" : [
+            "jahovas:interact4"
+        ]
+    },"interact5" : {
+        "sounds" : [
+            "jahovas:interact5"
+        ]
+    },"interact6" : {
+        "sounds" : [
+            "jahovas:interact6"
+        ]
+    },"interact7" : {
+        "sounds" : [
+            "jahovas:interact7"
+        ]
+    },"interact8" : {
+        "sounds" : [
+            "jahovas:interact8"
+        ]
+    },"kill" : {
+        "sounds" : [
+            "jahovas:kill1",
+            "jahovas:kill2",
+            "jahovas:kill3",
+            "jahovas:kill4",
+            "jahovas:kill5",
+            "jahovas:kill6",
+            "jahovas:kill7",
+            "jahovas:kill8",
+            "jahovas:kill9",
+            "jahovas:kill10"
+        ]
+    },"killed" : {
+        "sounds" : [
+            "jahovas:killed1",
+            "jahovas:killed2",
+            "jahovas:killed3",
+            "jahovas:killed4",
+            "jahovas:killed5",
+            "jahovas:killed6",
+            "jahovas:killed7",
+            "jahovas:killed8",
+            "jahovas:killed9"
+        ]
+    },"npc" : {
+        "sounds" : [
+            "jahovas:npc1",
+            "jahovas:npc2",
+            "jahovas:npc3",
+            "jahovas:npc4",
+            "jahovas:npc5",
+            "jahovas:npc6",
+            "jahovas:npc7",
+            "jahovas:npc8",
+            "jahovas:npc9",
+            "jahovas:npc10"
+        ]
+    }
+}

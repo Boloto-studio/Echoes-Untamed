@@ -1,0 +1,159 @@
+mod_id,mod_name,mod_version,mod_file,mod_url,display_url,issue_tracker_url
+saturn,Saturn,0.1.3,saturn-mc1.20.1-0.1.3.jar,,https://legacy.curseforge.com/minecraft/mc-mods/saturn,https://github.com/AbdElAziz333/Saturn/issues
+kuma_api,KumaAPI,20.1.8,kuma-api-forge-20.1.8+1.20.1.jar,,https://mods.twelveiterations.com/mc/kuma,https://github.com/TwelveIterationMods/Kuma/issues
+fabric_renderer_api_v1,Fabric Renderer API (v1),3.2.1+1d29b44577,fabric-renderer-api-v1-3.2.1+1d29b44577.jar,,,
+geckolib,GeckoLib 4,4.4.7,geckolib-forge-1.20.1-4.4.7.jar,,http://geckolib.com/,https://github.com/bernie-g/geckolib/issues
+playeranimator,Player Animator,1.0.2-rc1+1.20,player-animation-lib-forge-1.0.2-rc1+1.20.jar,,,
+fabric_item_api_v1,Fabric Item API (v1),2.1.28+4d0bbcfa77,fabric-item-api-v1-2.1.28+4d0bbcfa77.jar,,,
+org_quiltmc_parsers_json,json,0.2.1,YetAnotherConfigLib-3.5.0+1.20.1-fabric$json-0.2.1_mapped_srg_1.20.1.jar,,,
+towntalk,TownTalk,1.1.0,towntalk-1.20.1-1.1.0.jar,,https://minecolonies.com,https://github.com/ldtteam/towntalk/issues/new/choose
+fabric_rendering_fluids_v1,Fabric Rendering Fluids (v1),3.0.28+4ac5e37a77,fabric-rendering-fluids-v1-3.0.28+4ac5e37a77.jar,,,
+fabric_models_v0,Fabric Models (v0),0.4.2+7c3892a477,fabric-models-v0-0.4.2+7c3892a477.jar,,,
+loadingbackgrounds,Loading Backgrounds,1.5.0,loadingbackgrounds-forge-1.20.X-1.5.0.jar,,https://legacy.curseforge.com/minecraft/mc-mods/loadingbackgrounds,
+valhelsia_furniture,Valhelsia Furniture,1.1.3,valhelsia_furniture-forge-1.20.1-1.1.3.jar,,,
+fabric_convention_tags_v1,Fabric Convention Tags,1.5.5+fa3d1c0177,fabric-convention-tags-v1-1.5.5+fa3d1c0177.jar,,,
+ritchiesprojectilelib,Ritchie's Projectile Library,2.0.0-dev+mc.1.20.1-forge-build.182,ritchiesprojectilelib-2.0.0-dev+mc.1.20.1-forge-build.182.jar,,,https://github.com/Wagers-of-Industrial-Warfare/RitchiesProjectileLib/issues
+xaeroworldmap,Xaero's World Map,1.39.0,XaerosWorldMap_1.39.0_Forge_1.20.jar,,,
+citadel,Citadel,2.6.0,citadel-2.6.0-1.20.1.jar,,https://github.com/Alex-the-666/Citadel,https://github.com/Alex-the-666/Citadel/issues
+alexsmobs,Alex's Mobs,1.22.6,alexsmobs-1.22.6.jar,,https://www.curseforge.com/minecraft/mc-mods/alexs-mobs,https://github.com/Alex-the-666/AlexsMobs/issues
+fabric_command_api_v1,Fabric Command API (v1),1.2.34+f71b366f77,fabric-command-api-v1-1.2.34+f71b366f77.jar,,,
+fabric_block_view_api_v2,Fabric BlockView API (v2),1.0.1+0767707077,fabric-block-view-api-v2-1.0.1+0767707077.jar,,,
+fabric_command_api_v2,Fabric Command API (v2),2.2.13+561530ec77,fabric-command-api-v2-2.2.13+561530ec77.jar,,,
+fabric_data_attachment_api_v1,Fabric Data Attachment API (v1),1.0.0+30ef839e77,fabric-data-attachment-api-v1-1.0.0+30ef839e77.jar,,,
+mixinextras,MixinExtras,0.3.5,mixinextras-forge-0.3.5.jar,,https://github.com/LlamaLad7/MixinExtras,
+balm,Balm,7.3.6,balm-forge-1.20.1-7.3.6-all.jar,,https://mods.twelveiterations.com/,https://github.com/TwelveIterationMods/Balm/issues
+org_quiltmc_parsers_gson,gson,0.2.1,YetAnotherConfigLib-3.5.0+1.20.1-fabric$gson-0.2.1_mapped_srg_1.20.1.jar,,,
+snowrealmagic,Snow! Real Magic!,10.4.0,SnowRealMagic-1.20.1-forge-10.4.0.jar,,https://www.curseforge.com/minecraft/mc-mods/snowrealmagic,
+fabric_screen_api_v1,Fabric Screen API (v1),2.0.8+45a670a577,fabric-screen-api-v1-2.0.8+45a670a577.jar,,,
+melody,Melody,1.0.2,melody_forge_1.0.3_MC_1.20.1-1.20.4.jar,,,
+interiors,Create: Interiors,0.5.6,interiors-0.5.6+forge-mc1.20.1-build.104.jar,,https://www.curseforge.com/minecraft/mc-mods/interiors,https://github.com/aesefficio/CreateInteriorsMod/issues
+cloth_config,Cloth Config v10 API,11.1.118,cloth-config-11.1.118-forge.jar,,,https://github.com/architectury/ClothConfig/issues/
+fabric_api,Forgified Fabric API,0.92.2+1.11.8+1.20.1,fabric-api-0.92.2+1.11.8+1.20.1.jar,,,
+fabric_content_registries_v0,Fabric Content Registries (v0),4.0.11+a670df1e77,fabric-content-registries-v0-4.0.11+a670df1e77.jar,,,
+konkrete,Konkrete,1.8.0,konkrete_forge_1.8.0_MC_1.20-1.20.1.jar,,,
+embeddium,Embeddium,0.3.25+mc1.20.1,embeddium-0.3.25+mc1.20.1.jar,,,
+rubidium,Rubidium (Embeddium),0.7.1,embeddium-0.3.25+mc1.20.1.jar,,,
+corpse,Corpse,1.20.1-1.0.12,corpse-forge-1.20.1-1.0.12.jar,,https://www.curseforge.com/minecraft/mc-mods/corpse,https://github.com/henkelmax/corpse/issues
+com_twelvemonkeys_common_common_lang,common-lang,3.10.0,YetAnotherConfigLib-3.5.0+1.20.1-fabric$common-lang-3.10.0_mapped_srg_1.20.1.jar,,,
+mcwbridges,Macaw's Bridges,3.0.0,mcw-bridges-3.0.0-mc1.20.1forge.jar,,https://www.curseforge.com/minecraft/mc-mods/macaws-bridges,
+farmersdelight,Farmer's Delight,1.20.1-1.2.4,FarmersDelight-1.20.1-1.2.4.jar,,https://github.com/vectorwing/FarmersDelight,https://github.com/vectorwing/FarmersDelight/issues
+immersiveui,ImmersiveUI,0.1.1,immersiveui-forge-0.1.1.jar,,,https://github.com/Octo-Studios/immersive-ui
+fabric_game_rule_api_v1,Fabric Game Rule API (v1),1.0.40+683d4da877,fabric-game-rule-api-v1-1.0.40+683d4da877.jar,,,
+ambientsounds,AmbientSounds,6.0.3,AmbientSounds_FORGE_v6.0.3_mc1.20.1.jar,,https://modrinth.com/mod/ambientsounds,https://github.com/CreativeMD/AmbientSounds/issues
+fabric_api_lookup_api_v1,Fabric API Lookup API (v1),1.6.36+67f9824077,fabric-api-lookup-api-v1-1.6.36+67f9824077.jar,,,
+reactivemusic,Reactive Music,0.3.0-1.20.1,reactivemusic-0.3.0-1.20.1_mapped_srg_1.20.1.jar,https://modrinth.com/mod/reactive-music,https://modrinth.com/mod/reactive-music,
+valhelsia_structures,Valhelsia Structures,1.20.1-1.1.2,valhelsia_structures-forge-1.20.1-1.1.2.jar,,https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures,https://github.com/ValhelsiaTeam/Valhelsia-Structures/issues
+com_twelvemonkeys_common_common_io,common-io,3.10.0,YetAnotherConfigLib-3.5.0+1.20.1-fabric$common-io-3.10.0_mapped_srg_1.20.1.jar,,,
+lionfishapi,LionfishAPI,1.9,lionfishapi-1.9.jar,,,
+immersivesnow,Immersive Snow,1.3.0,immersivesnow-1.20.1-1.3.0.jar,,https://modrinth.com/mod/immersive-snow,https://github.com/Straywave/ImmersiveSnow/issues
+cataclysm,Cataclysm Mod,2.12,L_Enders_Cataclysm-2.12 - 1.20.1.jar,,,
+curios,Curios API,5.9.1+1.20.1,curios-forge-5.9.1+1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/curios,https://github.com/TheIllusiveC4/Curios/issues
+blockui,UI Library Mod,1.20.1-1.0.156-RELEASE,blockui-1.20.1-1.0.156-RELEASE.jar,,,
+oculus,Oculus,1.7.0,oculus-mc1.20.1-1.7.0.jar,,https://curseforge.com/minecraft/mc-mods/oculus,https://github.com/Asek3/Oculus/issues
+cerbons_api,CerbonsApi,1.0.0,CerbonsApi-Forge-1.20.1-1.0.0.jar,,https://www.curseforge.com/minecraft/mc-mods/cerbons-api-forge,https://github.com/CERBON-MODS/CERBONs-API/issues
+xercapaint,Joy of Painting,1.20.1-1.0.0,xercapaint-1.20.1-1.0.0.jar,,https://ercanserteli.com/joy-of-painting/,
+connectormod,Connector,1.0.0-beta.44+1.20.1,Connector-1.0.0-beta.44+1.20.1-mod.jar,,https://github.com/Sinytra/Connector,https://github.com/Sinytra/Connector/issues
+fabric_entity_events_v1,Fabric Entity Events (v1),1.6.0+6274ab9d77,fabric-entity-events-v1-1.6.0+6274ab9d77.jar,,,
+customnpcs,Custom NPCs,1.20.1.20240824,CustomNPCs-1.20.1-GBPort-Unofficial-20240824.jar,,http://www.kodevelopment.nl/minecraft/customnpcs/,http://my.issue.tracker/
+worldedit,WorldEdit,7.2.15+6463-5ca4dff,worldedit-mod-7.2.15.jar,,,https://discord.gg/enginehub
+architectury,Architectury,9.2.14,architectury-9.2.14-forge.jar,,,https://github.com/shedaniel/architectury/issues
+com_twelvemonkeys_common_common_image,common-image,3.10.0,YetAnotherConfigLib-3.5.0+1.20.1-fabric$common-image-3.10.0_mapped_srg_1.20.1.jar,,,
+fabric_loot_api_v2,Fabric Loot API (v2),1.2.1+eb28f93e77,fabric-loot-api-v2-1.2.1+eb28f93e77.jar,,,
+fabric_rendering_data_attachment_v1,Fabric Rendering Data Attachment (v1),0.3.37+a6081afc77,fabric-rendering-data-attachment-v1-0.3.37+a6081afc77.jar,,,
+fabric_networking_api_v1,Fabric Networking API (v1),1.3.11+503a202477,fabric-networking-api-v1-1.3.11+503a202477.jar,,,
+smallships,Small Ships,2.0.0-b1.4,smallships-forge-1.20.1-2.0.0-b1.4.jar,,,
+probejs,ProbeJS,6.0.1,probejs-6.0.1-forge.jar,,,https://github.com/Prunoideae/ProbeJS
+puffish_attributes,Pufferfish's Attributes,0.6.0,puffish_attributes-0.6.0-1.20-forge.jar,,,
+dynamictrees,Dynamic Trees,1.20.1-1.3.0-BETA10,DynamicTrees-1.20.1-1.3.0-BETA10.jar,,http://minecraft.curseforge.com/projects/dynamictrees,https://github.com/DynamicTreesTeam/DynamicTrees/issues
+fabric_lifecycle_events_v1,Fabric Lifecycle Events (v1),2.2.22+afab492177,fabric-lifecycle-events-v1-2.2.22+afab492177.jar,,,
+recruits,Recruits Mod,1.12.3,recruits-1.20.1-1.12.3.jar,,https://modrinth.com/mod/villager-recruits/versions,
+fabric_key_binding_api_v1,Fabric Key Binding API (v1),1.0.37+561530ec77,fabric-key-binding-api-v1-1.0.37+561530ec77.jar,,,
+fabric_client_tags_api_v1,Fabric Client Tags,1.1.2+5d6761b877,fabric-client-tags-api-v1-1.1.2+5d6761b877.jar,,,
+fabric_transfer_api_v1,Fabric Transfer API (v1),3.3.5+631c9cd677,fabric-transfer-api-v1-3.3.5+631c9cd677.jar,,,
+fabric_dimensions_v1,Fabric Dimensions API (v1),2.1.54+8005d10d77,fabric-dimensions-v1-2.1.54+8005d10d77.jar,,,
+kiwi,Kiwi Library,11.6.2,Kiwi-1.20.1-forge-11.6.2.jar,,https://www.curseforge.com/minecraft/mc-mods/kiwi,
+rhino,Rhino,2001.2.3-build.6,rhino-forge-2001.2.3-build.6.jar,,,https://github.com/KubeJS-Mods/Rhino/issues
+puffish_skills,Pufferfish's Skills,0.14.0,puffish_skills-0.14.0-1.20-forge.jar,,,
+createbigcannons,Create Big Cannons,5.6.0+mc.1.20.1-forge,createbigcannons-5.6.0-mc.1.20.1-forge.jar,,,https://github.com/Cannoneers-of-Create/CreateBigCannons/issues
+rpghud,RPG-HUD,3.10,[1.20.1][Forge] RPG-HUD-3.10.jar,,,
+fabric_model_loading_api_v1,Fabric Model Loading API (v1),1.0.3+6274ab9d77,fabric-model-loading-api-v1-1.0.3+6274ab9d77.jar,,,
+jei,Just Enough Items,15.3.0.8,jei-1.20.1-forge-15.3.0.8.jar,,https://www.curseforge.com/minecraft/mc-mods/jei,https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue
+kubejs,KubeJS,2001.6.5-build.14,kubejs-forge-2001.6.5-build.14.jar,,,https://kubejs.com/support?source=kubejs&mc=2001&loader=forge
+cnpcefaddon,CNPC-EpicFight-Addon,1.20.1.20240825,CNPC-EpicFight-Addon-1.20.1-20.8.2.jar,,,http://my.issue.tracker/
+giacomos_bookshelf,Giacomo's Bookshelf mod,1.3.9,giacomos_bookshelf-1.20.1-1.3.9.jar,,https://www.curseforge.com/minecraft/mc-mods/giacomos-bookshelf,
+fabric_screen_handler_api_v1,Fabric Screen Handler API (v1),1.3.30+561530ec77,fabric-screen-handler-api-v1-1.3.30+561530ec77.jar,,,
+fabric_resource_loader_v0,Fabric Resource Loader (v0),0.11.10+bcd08ed377,fabric-resource-loader-v0-0.11.10+bcd08ed377.jar,,,
+caelus,Caelus API,3.2.0+1.20.1,caelus-forge-3.2.0+1.20.1.jar,,https://github.com/TheIllusiveC4/Caelus,https://github.com/TheIllusiveC4/Caelus/issues
+fabric_rendering_v1,Fabric Rendering (v1),3.0.8+66e9a48f77,fabric-rendering-v1-3.0.8+66e9a48f77.jar,,,
+waystones,Waystones,14.1.4,waystones-forge-1.20-14.1.4.jar,,https://mods.twelveiterations.com/mc/waystones,https://github.com/TwelveIterationMods/Waystones/issues
+fabric_renderer_indigo,Fabric Renderer - Indigo,1.5.2+b5b2da4177,fabric-renderer-indigo-1.5.2+b5b2da4177.jar,,,
+clumps,Clumps,12.0.0.4,Clumps-forge-1.20.1-12.0.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/clumps,https://github.com/jaredlll08/Clumps/issues
+fabric_mining_level_api_v1,Fabric Mining Level API (v1),2.1.50+561530ec77,fabric-mining-level-api-v1-2.1.50+561530ec77.jar,,,
+sereneseasons,Serene Seasons,9.0.0.46,SereneSeasons-1.20.1-9.0.0.46.jar,,,https://github.com/Glitchfiend/SereneSeasons/issues
+configured,Configured,2.2.3,configured-forge-1.20.1-2.2.3.jar,,https://mrcrayfish.com/mods?id=configured,https://github.com/MrCrayfish/Configured/issues
+magistuarmory,Epic Knights Mod,9.16,[1.20.1-forge]-Epic-Knights-9.16.jar,,,https://github.com/Magistu/Epic-Knights/issues
+slavicarmory,Epic Knights: Slavic Armory,1.5,[1.20.x-forge]-Epic-Knights-Slavic-Armory-1.5.jar,,,https://github.com/Magistu/Epic-Knights-Slavic-Armory/issues
+dungeoncrawl,Dungeon Crawl,2.3.14,Dungeon Crawl-1.20.1-2.3.14.jar,,,https://github.com/xyroc/DungeonCrawl/issues
+worldeditcui,WorldEditCUI,1.20+01,WorldEditCUI-1.20+01.jar,,https://github.com/EngineHub/WorldEditCUI,
+impactful,impactful,20.8.3,impactful-20.8.3.jar,,,
+epicfight,Epic Fight,20.9.2,epicfight-forge-20.9.2-1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod,https://github.com/Yesssssman/epicfightmod/issues
+iceandfire,Ice and Fire,2.1.13-1.20.1,iceandfire-2.1.13-1.20.1-beta-5.jar,,https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons,https://github.com/Alex-the-666/ice-and-fire/issues
+bosses_of_mass_destruction,Bosses of Mass Destruction,1.1.1,BOMD-Forge-1.20.1-1.1.1.jar,,https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge,https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE/issues
+terralith,Terralith,2.5.4,Terralith_1.20.x_v2.5.4.jar,,https://www.stardustlabs.net/,https://github.com/Stardust-Labs-MC/Terralith/issues
+dtterralith,Dynamic Trees for Terralith,1.20.1-1.2.1,DynamicTreesTerralith-1.20.1-1.2.1.jar,,,
+fabric_particles_v1,Fabric Particles (v1),1.1.2+78e1ecb877,fabric-particles-v1-1.1.2+78e1ecb877.jar,,,
+forge,Forge,47.3.0,forge-1.20.1-47.3.0-universal.jar,,https://minecraftforge.net/,https://minecraftforge.net/
+fabric_transitive_access_wideners_v1,Fabric Transitive Access Wideners (v1),4.3.1+1880499877,fabric-transitive-access-wideners-v1-4.3.1+1880499877.jar,,,
+createbb,Create: Broken Bad,3.1.1,createbb-1.20.1-3.2.1.jar,,,
+dungeons_arise,When Dungeons Arise,2.1.58-1.20.x,DungeonsArise-1.20.x-2.1.58-release.jar,,https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise,
+minecraft,Minecraft,1.20.1,client-1.20.1-20230612.114412-srg.jar,,,
+distanthorizons,Distant Horizons,2.1.2-a,DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar,,https://modrinth.com/mod/distanthorizons,https://gitlab.com/jeseibel/distant-horizons/-/issues
+voicechat,Simple Voice Chat,1.20.1-2.5.19,voicechat-forge-1.20.1-2.5.19.jar,,https://modrepo.de/minecraft/voicechat/overview,https://github.com/henkelmax/simple-voice-chat/issues
+railways,Create: Steam 'n' Rails,1.6.7+forge-mc1.20.1,Steam_Rails-1.6.7+forge-mc1.20.1.jar,,,https://github.com/Layers-of-Railways/Railway/issues
+terrablender,TerraBlender,3.0.1.7,TerraBlender-forge-1.20.1-3.0.1.7.jar,,,https://github.com/Glitchfiend/TerraBlender/issues
+biomesoplenty,Biomes O' Plenty,18.0.0.592,BiomesOPlenty-1.20.1-18.0.0.592.jar,,,https://github.com/Glitchfiend/BiomesOPlenty/issues
+dtbop,Dynamic Trees for Biomes o' Plenty,1.20.1-3.2.3,DynamicTreesBOP-1.20.1-3.2.3.jar,,https://www.curseforge.com/minecraft/mc-mods/dtbop,
+fabric_api_base,Fabric API Base,0.4.31+ef105b4977,fabric-api-base-0.4.31+ef105b4977.jar,,,
+fabric_blockrenderlayer_v1,Fabric BlockRenderLayer Registration (v1),1.1.41+1d0da21e77,fabric-blockrenderlayer-v1-1.1.41+1d0da21e77.jar,,,
+creativecore,CreativeCore,2.11.31,CreativeCore_FORGE_v2.11.31_mc1.20.1.jar,,https://modrinth.com/mod/creativecore,https://github.com/CreativeMD/CreativeCore/issues
+fabric_block_api_v1,Fabric Block API (v1),1.0.11+0e6cb7f777,fabric-block-api-v1-1.0.11+0e6cb7f777.jar,,,
+fabric_resource_conditions_api_v1,Fabric Resource Conditions API (v1),2.3.8+9ad825cd77,fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar,,,
+domum_ornamentum,Domum Ornamentum,1.20.1-1.0.188-BETA,domum_ornamentum-1.20.1-1.0.188-BETA-universal.jar,,,
+kotlinforforge,Kotlin For Forge,4.11.0,kffmod-4.11.0.jar,,,
+jeiintegration,JEI Integration,10.0.0,jeiintegration_1.20.1-10.0.0.jar,,https://curseforge.com/minecraft/mc-mods/jei-integration,https://github.com/snowshock35/jei-integration/issues
+com_twelvemonkeys_imageio_imageio_core,imageio-core,3.10.0,YetAnotherConfigLib-3.5.0+1.20.1-fabric$imageio-core-3.10.0_mapped_srg_1.20.1.jar,,,
+flywheel,Flywheel,0.6.11-13,flywheel-forge-1.20.1-0.6.11-13.jar,,https://www.curseforge.com/minecraft/mc-mods/flywheel,https://github.com/Jozufozu/Flywheel/issues
+create,Create,0.5.1.j,create-1.20.1-0.5.1.j.jar,,https://www.curseforge.com/minecraft/mc-mods/create,https://github.com/Creators-of-Create/Create/issues
+xaerominimap,Xaero's Minimap,24.5.0,Xaeros_Minimap_24.5.0_Forge_1.20.jar,,,https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/issues
+com_twelvemonkeys_imageio_imageio_metadata,imageio-metadata,3.10.0,YetAnotherConfigLib-3.5.0+1.20.1-fabric$imageio-metadata-3.10.0_mapped_srg_1.20.1.jar,,,
+fabric_item_group_api_v1,Fabric Item Group API (v1),4.0.12+c9161c2d77,fabric-item-group-api-v1-4.0.12+c9161c2d77.jar,,,
+com_twelvemonkeys_imageio_imageio_webp,imageio-webp,3.10.0,YetAnotherConfigLib-3.5.0+1.20.1-fabric$imageio-webp-3.10.0_mapped_srg_1.20.1.jar,,,
+irons_spellbooks,Iron's Spells 'n Spellbooks,1.20.1-3.4.0.4,irons_spellbooks-1.20.1-3.4.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks,https://github.com/iron431/Irons-Spells-n-Spellbooks/issues
+immersive_paintings,Immersive Paintings,0.6.7+1.20.1,immersive_paintings-0.6.7+1.20.1-forge.jar,,https://www.curseforge.com/minecraft/mc-mods/immersive-paintings,https://github.com/Luke100000/ImmersivePaintings/issues
+canary,Canary,0.3.3,canary-mc1.20.1-0.3.3.jar,,https://www.curseforge.com/minecraft/mc-mods/canary,https://github.com/AbdElAziz333/Canary/issues
+fabric_biome_api_v1,Fabric Biome API (v1),13.0.13+dc36698e77,fabric-biome-api-v1-13.0.13+dc36698e77.jar,,,
+structurize,Structurize,1.20.1-1.0.742-RELEASE,structurize-1.20.1-1.0.742-RELEASE.jar,,https://minecolonies.com/,https://github.com/ldtteam/structurize/issues/new/choose
+multipiston,Multi-Piston,1.20-1.2.43-RELEASE,multipiston-1.20-1.2.43-RELEASE.jar,,,
+fancymenu,FancyMenu,3.2.3,fancymenu_forge_3.2.3_MC_1.20.1.jar,,,
+fabric_registry_sync_v0,Fabric Registry Sync (v0),2.3.3+1c0ea72177,fabric-registry-sync-v0-2.3.3+1c0ea72177.jar,,,
+minecolonies,MineColonies,1.20.1-1.1.603-RELEASE,minecolonies-1.20.1-1.1.603-RELEASE.jar,,https://minecolonies.com,https://github.com/ldtteam/minecolonies/issues/new/choose
+minecolonies_tweaks,MineColonies Tweaks,2.23,MineColonies_Tweaks-1.20.1-2.23.jar,,https://legacy.curseforge.com/minecraft/mc-mods/minecolonies-tweaks,https://github.com/gisellevonbingen-Minecraft/MineColonies_Tweaks/issues
+minecolonies_compatibility,MineColonies Compatibility,2.23,MineColonies_Compatibility-1.20.1-2.23.jar,,https://legacy.curseforge.com/minecraft/mc-mods/minecolonies-compatibility,https://github.com/gisellevonbingen-Minecraft/MineColonies_Compatibility/issues
+alexsdelight,Alex's Delight,1.5,alexsdelight-1.5.jar,,,
+fabric_recipe_api_v1,Fabric Recipe API (v1),1.0.21+514a076577,fabric-recipe-api-v1-1.0.21+514a076577.jar,,,
+ferritecore,Ferrite Core,6.0.1,ferritecore-6.0.1-forge.jar,,,
+fabric_object_builder_api_v1,Fabric Object Builder API (v1),11.1.3+2174fc8477,fabric-object-builder-api-v1-11.1.3+2174fc8477.jar,,,
+yet_another_config_lib_v3,YetAnotherConfigLib,3.5.01.20.1-fabric,YetAnotherConfigLib-3.5.0+1.20.1-fabric_mapped_srg_1.20.1.jar,https://isxander.dev,https://isxander.dev,
+fabric_sound_api_v1,Fabric Sound API (v1),1.0.13+4f23bd8477,fabric-sound-api-v1-1.0.13+4f23bd8477.jar,,,
+valkyrienskies,Valkyrien Skies 2,2.3.0-beta.5,valkyrienskies-120-2.3.0-beta.5.jar,,,https://github.com/ValkyrienSkies/Valkyrien-Skies-2/issues
+vs_eureka,VS Eureka Mod,1.5.1-beta.3,eureka-1201-1.5.1-beta.3.jar,,,https://github.com/ValkyrienSkies/Valkyrien-Skies-2/issues
+immersive_melodies,Immersive Melodies,0.3.0+1.20.1,immersive_melodies-0.3.0+1.20.1-forge.jar,,https://www.curseforge.com/minecraft/mc-mods/ImmersiveMelodies,https://github.com/Luke100000/ImmersiveMelodies/issues
+fabric_message_api_v1,Fabric Message API (v1),5.1.9+52cc178c77,fabric-message-api-v1-5.1.9+52cc178c77.jar,,,
+packetfixer,Packet Fixer,1.4.2,packetfixer-forge-1.4.2-1.19-to-1.20.1.jar,,,https://github.com/TonimatasDEV/PacketFixer/issues
+efm_compat,EFM & Other Mods Weapons Compability,2.0,EFMCompat 2.0.jar,,,
+valhelsia_core,Valhelsia Core,1.1.2,valhelsia_core-forge-1.20.1-1.1.2.jar,,,
+fabric_data_generation_api_v1,Fabric Data Generation API (v1),12.3.4+369cb3a477,fabric-data-generation-api-v1-12.3.4+369cb3a477.jar,,,
+betterfoliage,Better Foliage,5.0.2,betterfoliage-5.0.2.jar,,https://github.com/eerussianguy/Better-Foliage,https://github.com/eerussianguy/Better-Foliage/issues
+fabric_events_interaction_v0,Fabric Events Interaction (v0),0.6.2+0d0bd5a777,fabric-events-interaction-v0-0.6.2+0d0bd5a777.jar,,,
+org_yaml_snakeyaml,snakeyaml,2.2,reactivemusic-0.3.0-1.20.1$snakeyaml-2.2_mapped_srg_1.20.1.jar,,,
+drinkbeer,Drink Beer Refill,1.0.4.b,drinkbeer-refill-1.20.1-1.0.4.b.jar,,,

@@ -1,0 +1,29 @@
+{
+    "interact" : {
+        "sounds" : [
+            "bandit:interact1",
+            "bandit:interact2",
+            "bandit:interact3"
+        ]
+    },
+    "npc" : {
+        "sounds" : [
+            "bandit:npc1"
+        ]
+    },
+    "attack" : {
+        "sounds" : [
+            "bandit:attack1",
+            "bandit:attack2",
+            "bandit:attack3",
+            "bandit:attack4",
+            "bandit:attack5"
+        ]
+    },
+    "killed" : {
+        "sounds" : [
+            "bandit:killed1",
+            "bandit:killed2"
+        ]
+    }
+}
