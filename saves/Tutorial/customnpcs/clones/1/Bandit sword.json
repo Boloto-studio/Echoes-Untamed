@@ -1,0 +1,584 @@
+{
+    "TransformHasDisplay": 0b,
+    "AttackInvisible": 0b,
+    "TransformHasAdvanced": 0b,
+    "IsStatue": 0b,
+    "AbsorptionAmount": 0.0f,
+    "SpawnCycle": 0,
+    "Accuracy": 60,
+    "MovingPatern": 0,
+    "HideBodyWhenKilled": 1b,
+    "Weapons": [
+        {
+            "Slot": 0b,
+            "id": "minecraft:stone_sword",
+            "tag": {
+                "Damage": 0
+            },
+            "Count": 1b
+        }
+    ],
+    "ReturnToStart": 1b,
+    "NPCDialogOptions": [
+    ],
+    "FactionPoints": {
+        "DecreaseFaction2Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFaction1Points": 100,
+        "OptionFactions2": -1,
+        "OptionFactions1": -1,
+        "DecreaseFaction1Points": 0b
+    },
+    "ActiveRange": 32,
+    "Resistances": {
+        "Knockback": 1.0f,
+        "Explosion": 1.0f,
+        "Melee": 1.0f,
+        "Arrow": 1.0f
+    },
+    "MovingState": 1,
+    "ForgeCaps": {
+        "curios:inventory": {
+            "Curios": [
+            ]
+        },
+        "cataclysm:render_rush_cap": {
+            "isRush": 0b,
+            "damage": 0.0f,
+            "timer": 0
+        },
+        "cataclysm:tentacle_cap": {
+            "getLastTentacleID": 0,
+            "hasTentacle": 0b
+        },
+        "cataclysm:charge_cap": {
+            "isCharge": 0b,
+            "dz": 0.0f,
+            "dx": 0.0f,
+            "KnockbackSpeed": 0.0f,
+            "ChargeTime": 0,
+            "timer": 0,
+            "ChargeDamage": 0.0f
+        },
+        "cataclysm:hook_cap": {
+            "hasHook": 0b
+        },
+        "iceandfire:entity_data": {
+            "chainedData": {
+            },
+            "miscData": {
+                "lungeTicks": 0,
+                "loveTicks": 0,
+                "hasDismounted": 0b
+            },
+            "chickenData": {
+                "timeUntilNextEgg": -1
+            },
+            "sirenData": {
+                "charmedById": -1,
+                "charmTime": 0,
+                "isCharmed": 0b
+            },
+            "frozenData": {
+                "isFrozen": 0b,
+                "frozenTicks": 0
+            }
+        }
+    },
+    "CloakTexture": "",
+    "OverlayGlowing": 1b,
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "pSize": 5,
+    "BossColor": 0,
+    "BossBar": 0b,
+    "MovingPause": 1b,
+    "OnAttack": 0,
+    "FireRate": 5,
+    "BalmData": {
+    },
+    "pArea": 0,
+    "GroundSound": "minecraft:block.stone.break",
+    "pRender3D": 1b,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "Scripts": [
+    ],
+    "FiringSound": "minecraft:entity.arrow.shoot",
+    "ShowName": 1,
+    "LinkedNpcName": "",
+    "LootMode": 0,
+    "Armor": [
+    ],
+    "CanSprint": 0b,
+    "ForgeData": {
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "ReactsToFire": 0b,
+    "NpcInteractNPCLines": {
+        "Lines": [
+            {
+                "Song": "bandit:npc",
+                "Slot": 0,
+                "Line": ""
+            }
+        ]
+    },
+    "SkinUrl": "",
+    "PotionEffect": 0,
+    "IgnoreCobweb": 0b,
+    "ModRev": 18,
+    "KilledTime": 0L,
+    "TransformHasRole": 0b,
+    "MoveSpeed": 5,
+    "DropChance": [
+        {
+            "Integer": 95.0f,
+            "Slot": 0
+        },
+        {
+            "Integer": 50.0f,
+            "Slot": 1
+        },
+        {
+            "Integer": 20.0f,
+            "Slot": 2
+        },
+        {
+            "Integer": 10.0f,
+            "Slot": 3
+        },
+        {
+            "Integer": 5.0f,
+            "Slot": 4
+        },
+        {
+            "Integer": 20.0f,
+            "Slot": 5
+        },
+        {
+            "Integer": 100.0f,
+            "Slot": 6
+        },
+        {
+            "Integer": 100.0f,
+            "Slot": 7
+        },
+        {
+            "Integer": 100.0f,
+            "Slot": 8
+        }
+    ],
+    "Fire": -1s,
+    "CombatRegen": 0,
+    "NpcAttackLines": {
+        "Lines": [
+            {
+                "Song": "bandit:attack",
+                "Slot": 0,
+                "Line": ""
+            }
+        ]
+    },
+    "WalkingRange": 10,
+    "DeathTime": 0s,
+    "CanDrown": 1b,
+    "pStick": 0b,
+    "pDamage": 4,
+    "PositionOffsetZ": 5.0f,
+    "Orientation": 0,
+    "StandingState": 0,
+    "HitSound": "minecraft:entity.arrow.hit",
+    "AggroRange": 50,
+    "OnGround": 1b,
+    "MaxFiringRange": 15,
+    "pEffect": 0,
+    "pPhysics": 1b,
+    "TransformHasJob": 0b,
+    "CanLeap": 0b,
+    "Attributes": [
+        {
+            "Name": "forge:swim_speed",
+            "Base": 8.0d
+        },
+        {
+            "Name": "minecraft:generic.flying_speed",
+            "Base": 0.5d
+        },
+        {
+            "Name": "minecraft:generic.follow_range",
+            "Base": 32.0d
+        },
+        {
+            "Name": "forge:step_height_addition",
+            "Base": 0.0d
+        },
+        {
+            "Name": "minecraft:generic.max_health",
+            "Base": 20.0d
+        },
+        {
+            "Name": "epicfight:impact",
+            "Base": 0.5d
+        },
+        {
+            "Name": "minecraft:generic.movement_speed",
+            "Base": 0.25d
+        },
+        {
+            "Name": "minecraft:generic.attack_damage",
+            "Base": 5.0d
+        },
+        {
+            "Name": "forge:entity_gravity",
+            "Base": 0.08d
+        },
+        {
+            "Name": "epicfight:weight",
+            "Base": 42.222179470181466d
+        },
+        {
+            "Name": "epicfight:stun_armor",
+            "Base": 0.0d
+        },
+        {
+            "Name": "epicfight:max_strikes",
+            "Base": 1.0d
+        }
+    ],
+    "FactionID": 2,
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "Name": "Bandit",
+    "NpcAngrySound": "",
+    "VisibleAvailability": {
+        "AvailabilityScoreboardObjective": "",
+        "AvailabilityDialog3Id": -1,
+        "AvailabilityFaction2Stance": 0,
+        "AvailabilityDialog4": 0,
+        "AvailabilityQuest2": 0,
+        "AvailabilityFaction": 0,
+        "AvailabilityDialog2Id": -1,
+        "AvailabilityQuest3Id": -1,
+        "AvailabilityQuest": 0,
+        "AvailabilityMinPlayerLevel": 0,
+        "AvailabilityQuest4Id": -1,
+        "AvailabilityQuest2Id": -1,
+        "AvailabilityDialog3": 0,
+        "AvailabilityDayTime": 0,
+        "AvailabilityScoreboard2Type": 1,
+        "AvailabilityScoreboard2Objective": "",
+        "AvailabilityDialog": 0,
+        "AvailabilityDialog4Id": -1,
+        "AvailabilityQuestId": -1,
+        "AvailabilityDialogId": -1,
+        "AvailabilityScoreboardType": 1,
+        "AvailabilityDialog2": 0,
+        "AvailabilityQuest3": 0,
+        "AvailabilityQuest4": 0,
+        "AvailabilityFactionId": -1,
+        "AvailabilityFactionStance": 0,
+        "AvailabilityFaction2": 0,
+        "AvailabilityScoreboardValue": 1,
+        "AvailabilityFaction2Id": -1,
+        "AvailabilityScoreboard2Value": 1,
+        "ModRev": 18
+    },
+    "npcInteracting": 1b,
+    "FindShelter": 2,
+    "NpcStepSound": "",
+    "HurtByTimestamp": 230,
+    "AttackStrenght": 5,
+    "ScriptEnabled": 0b,
+    "HealthRegen": 1,
+    "pXlr8": 0b,
+    "MovementType": 0,
+    "FireIndirect": 0,
+    "CitadelData": {
+    },
+    "Size": 5,
+    "Role": 0,
+    "DoorInteract": 0,
+    "DirectLOS": 1b,
+    "TransformIsActive": 0b,
+    "SkinColor": 16777215,
+    "PositionOffsetX": 5.0f,
+    "NoFallDamage": 0b,
+    "BurstCount": 1,
+    "efModel": "customnpcs:customnpc_low_skill",
+    "TransformHasAI": 0b,
+    "AttackRange": 2,
+    "pSpeed": 10,
+    "pTrail": 0,
+    "id": "customnpcs:customnpc",
+    "Title": "",
+    "pGlows": 0b,
+    "HurtTime": 0s,
+    "AttackSpeed": 20,
+    "FallFlying": 0b,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "GlowTexture": "",
+    "MountControl": 0b,
+    "MaxExp": 10,
+    "CanUpdate": 1b,
+    "AimWhileShooting": 0b,
+    "pImpact": 0,
+    "ImmuneToFire": 0b,
+    "DisablePitch": 0b,
+    "LeftHanded": 0b,
+    "minDelay": 20,
+    "MoveState": 0,
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Song": "bandit:interact1",
+                "Slot": 0,
+                "Line": "Are you lost, man? Get your wallet ready, or I'll make you lose something more significant than time."
+            },
+            {
+                "Song": "bandit:interact2",
+                "Slot": 1,
+                "Line": "What are you looking at? You're not welcome here."
+            },
+            {
+                "Song": "bandit:interact5",
+                "Slot": 2,
+                "Line": "Who the hell are you? You think we're afraid of you?"
+            },
+            {
+                "Song": "bandit:interact6",
+                "Slot": 3,
+                "Line": "Are you trying to pass here? Get your toll payment ready."
+            },
+            {
+                "Song": "bandit:interact7",
+                "Slot": 4,
+                "Line": "This is our neck of the woods; you are in our territory."
+            },
+            {
+                "Song": "bandit:interact8",
+                "Slot": 5,
+                "Line": "Do you have anything valuable? You better find something if you want to stay alive."
+            },
+            {
+                "Song": "bandit:interact9",
+                "Slot": 6,
+                "Line": "You look like an idiot. Idiots don't live long around here."
+            },
+            {
+                "Song": "bandit:interact10",
+                "Slot": 7,
+                "Line": "One more step, and I'll stop just talking."
+            }
+        ]
+    },
+    "DefendFaction": 1b,
+    "Invulnerable": 0b,
+    "NpcJob": 0,
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "NpcIdleSound": "",
+    "NpcInv": [
+        {
+            "Slot": 0b,
+            "id": "iceandfire:copper_nugget",
+            "Count": 4b
+        },
+        {
+            "Slot": 1b,
+            "id": "minecraft:stone_sword",
+            "tag": {
+                "Damage": 0
+            },
+            "Count": 1b
+        },
+        {
+            "Slot": 2b,
+            "id": "minecraft:bread",
+            "Count": 4b
+        },
+        {
+            "Slot": 3b,
+            "id": "farmersdelight:egg_sandwich",
+            "Count": 1b
+        },
+        {
+            "Slot": 4b,
+            "id": "valhelsia_structures:white_sleeping_bag",
+            "Count": 1b
+        },
+        {
+            "Slot": 5b,
+            "id": "drinkbeer:beer_mug_sweet_berry_kriek",
+            "Count": 1b
+        }
+    ],
+    "AttackOtherFactions": 1b,
+    "pSpin": 0b,
+    "TransformEditingModus": 0b,
+    "pDur": 5,
+    "NpcVisible": 0,
+    "NpcsTimers": [
+    ],
+    "stopAndInteract": 1b,
+    "MovingPos": 0,
+    "KnockBack": 0,
+    "RespawnTime": 40,
+    "OrderedLines": 0b,
+    "ShotCount": 1,
+    "PotionAmp": 0,
+    "maxDelay": 40,
+    "ScriptLanguage": "ECMAScript",
+    "MarkovGeneratorId": 9,
+    "Motion": [
+        0.025857146877340868d,
+        -0.0784000015258789d,
+        -0.0689742003956314d
+    ],
+    "CanPickUpLoot": 0b,
+    "PotionImmune": 0b,
+    "NpcDeathSound": "minecraft:entity.player.hurt",
+    "PersistenceRequired": 0b,
+    "NpcModelData": {
+        "ExtraData": {
+        },
+        "HeadConfig": {
+            "TransY": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "LastEdited": 1728022245348L,
+        "Legs2Config": {
+            "TransY": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "ArmsConfig": {
+            "TransY": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "MoveAnimation": 16,
+        "ModelType": 0,
+        "BodyConfig": {
+            "TransY": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "NewParts": [
+        ],
+        "Animation": 0,
+        "WingMode": 0,
+        "LegsConfig": {
+            "TransY": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "SimpleRender": 0b,
+        "Parts": [
+        ],
+        "DisplayName": "",
+        "CustomSkinUrl": "",
+        "Arms2Config": {
+            "TransY": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        }
+    },
+    "NoLivingAnimation": 0b,
+    "BurnInSun": 0b,
+    "TransformHasStats": 0b,
+    "CreatureType": 0,
+    "PotionDuration": 5,
+    "pEffAmp": 0,
+    "TotalTicksAlive": 89193L,
+    "Brain": {
+        "memories": {
+        }
+    },
+    "TransformHasInv": 0b,
+    "MinExp": 3,
+    "Rotation": [
+        200.55331f,
+        0.0f
+    ],
+    "Texture": "bandit:textures/2024_06_16_raider-22612315.png",
+    "NpcKilledLines": {
+        "Lines": [
+            {
+                "Song": "bandit:killed",
+                "Slot": 0,
+                "Line": ""
+            }
+        ]
+    },
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "DistanceToMelee": 0,
+    "PositionOffsetY": 5.0f,
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "Air": 300s,
+    "AvoidsSun": 0b,
+    "AvoidsWater": 0b,
+    "MarkovGender": 0,
+    "NpcHurtSound": "minecraft:entity.player.hurt",
+    "FallDistance": 0.0f,
+    "CanSwim": 1b,
+    "MaxHealth": 20,
+    "Health": 20.0f,
+    "UsingSkinUrl": 0b,
+    "PortalCooldown": 0
+}

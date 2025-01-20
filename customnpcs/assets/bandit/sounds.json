@@ -1,14 +1,65 @@
 {
-    "interact" : {
+    "interact1" : {
         "sounds" : [
-            "bandit:interact1",
-            "bandit:interact2",
+            "bandit:interact1"
+        ]
+    },
+    "interact2" : {
+        "sounds" : [
+            "bandit:interact2"
+        ]
+    },
+    "interact3" : {
+        "sounds" : [
             "bandit:interact3"
+        ]
+    },
+    "interact4" : {
+        "sounds" : [
+            "bandit:interact4"
+        ]
+    },
+    "interact5" : {
+        "sounds" : [
+            "bandit:interact5"
+        ]
+    },
+    "interact6" : {
+        "sounds" : [
+            "bandit:interact6"
+        ]
+    },
+    "interact7" : {
+        "sounds" : [
+            "bandit:interact7"
+        ]
+    },
+    "interact8" : {
+        "sounds" : [
+            "bandit:interact8"
+        ]
+    },
+    "interact9" : {
+        "sounds" : [
+            "bandit:interact9"
+        ]
+    },
+    "interact10" : {
+        "sounds" : [
+            "bandit:interact10"
         ]
     },
     "npc" : {
         "sounds" : [
-            "bandit:npc1"
+            "bandit:npc1",
+            "bandit:npc2",
+            "bandit:npc3",
+            "bandit:npc4",
+            "bandit:npc5",
+            "bandit:npc6",
+            "bandit:npc7",
+            "bandit:npc8",
+            "bandit:npc9"
         ]
     },
     "attack" : {
@@ -17,13 +68,50 @@
             "bandit:attack2",
             "bandit:attack3",
             "bandit:attack4",
-            "bandit:attack5"
+            "bandit:attack5",
+            "bandit:attack6",
+            "bandit:attack7",
+            "bandit:attack8",
+            "bandit:attack9",
+            "bandit:attack10"
         ]
     },
     "killed" : {
         "sounds" : [
             "bandit:killed1",
-            "bandit:killed2"
+            "bandit:killed2",
+            "bandit:killed3",
+            "bandit:killed4",
+            "bandit:killed5",
+            "bandit:killed6",
+            "bandit:killed7",
+            "bandit:killed8"
+        ]
+    },
+    "kill" : {
+        "sounds" : [
+            "bandit:kill1",
+            "bandit:kill2",
+            "bandit:kill3",
+            "bandit:kill4",
+            "bandit:kill5",
+            "bandit:kill6",
+            "bandit:kill7",
+            "bandit:kill8",
+            "bandit:kill9",
+            "bandit:kill10"
+        ]
+    },
+    "hurt" : {
+        "sounds" : [
+            "bandit:hurt1",
+            "bandit:hurt2",
+            "bandit:hurt3",
+            "bandit:hurt4",
+            "bandit:hurt5",
+            "bandit:hurt6",
+            "bandit:hurt7",
+            "bandit:hurt8"
         ]
     }
 }
