@@ -26,7 +26,7 @@ This setup ensures that we stay within hosting limits while providing you with a
    [https://github.com/Collert/Echoes-Untamed.git](https://github.com/Collert/Echoes-Untamed.git)
 
 2. **Submodule Hosted on Gitea (Large Files)**:  
-   `http://23.16.73.26:3002/Collert/Echoes_Untamed_mods.git`
+   `https://git.boloto.studio/Collert/Echoes_Untamed_mods.git`
 
 ---
 
@@ -134,8 +134,8 @@ Or use VSCode's "Source control" GUI to simplify the process.
 
 If cloning the submodule fails with a `403 Forbidden` or `Connection refused` error, ensure:
 
-1. You are using the correct public IP for the submodule:  
-   `http://23.16.73.26:3002/Collert/Echoes_Untamed_mods.git`
+1. You are using the correct link for the submodule:  
+   `https://git.boloto.studio/Collert/Echoes_Untamed_mods.git`
 2. The server hosting the submodule (Gitea) is online and accessible from your network.
 
 #### **Submodule Not Updating**
@@ -167,7 +167,7 @@ If you cannot access the Gitea-hosted submodule from your location, contact the 
    git submodule update --remote
    ```
 
-If you are planning on contributing to the `mods` folder, register an account at `http://23.16.73.26:3002` and message me on Discord to add you to the  collaborator list for the mods repo.
+If you are planning on contributing to the `mods` folder, register an account at `https://git.boloto.studio` and message me on Discord to add you to the  collaborator list for the mods repo.
 
 Let me know if you encounter any issues! 😊
 
@@ -197,7 +197,7 @@ Let me know if you encounter any issues! 😊
    [https://github.com/Collert/Echoes-Untamed.git](https://github.com/Collert/Echoes-Untamed.git)
 
 2. **Субмодуль, розміщений на Gitea (великі файли)**:  
-   `http://23.16.73.26:3002/Collert/Echoes_Untamed_mods.git`
+   `https://git.boloto.studio/Collert/Echoes_Untamed_mods.git`
 
 ---
 
@@ -304,7 +304,7 @@ git submodule update --remote
 Якщо завантаження субмодуля завершується помилкою `403 Forbidden` або `Connection refused`, переконайтеся, що:
 
 1. Ви використовуєте правильну публічну IP-адресу для субмодуля:  
-   `http://23.16.73.26:3002/Collert/Echoes_Untamed_mods.git`
+   `https://git.boloto.studio/Collert/Echoes_Untamed_mods.git`
 2. Сервер, який хостить субмодуль (Gitea), працює та доступний з вашої мережі.
 
 #### **Субмодуль не оновлюється**
@@ -336,6 +336,6 @@ git submodule update --init --recursive
    git submodule update --remote
    ```
 
-Якщо ви плануєте вносити зміни до папки модів, зареєструйтеся на `http://23.16.73.26:3002` і надішліть мені повідомлення на Discord, щоб я додав вас до списку співавторів репи з модами.
+Якщо ви плануєте вносити зміни до папки модів, зареєструйтеся на `https://git.boloto.studio` і надішліть мені повідомлення на Discord, щоб я додав вас до списку співавторів репи з модами.
 
 Якщо у вас виникли запитання чи проблеми, звертайтеся! Успішної роботи! 😊
